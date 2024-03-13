@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1276" height="155" viewBox="0 0 1276 155">
+  <g id="Group_117" data-name="Group 117" transform="translate(0.232 0.935)">
+    <rect id="Rectangle_102" data-name="Rectangle 102" width="391" height="19" rx="5" transform="translate(-0.232 67.065)" fill="#faae4b"/>
+    <rect id="Rectangle_103" data-name="Rectangle 103" width="521" height="19" rx="5" transform="translate(390.768 67.065)" fill="#3ac66c"/>
+    <rect id="Rectangle_104" data-name="Rectangle 104" width="364" height="19" rx="5" transform="translate(911.768 67.065)" fill="#915ebf"/>
+    <text id="_0" data-name="0" transform="translate(-0.232 137.065)" fill="#444" font-size="41" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">0</tspan></text>
+    <text id="Fair" transform="translate(142.768 39.065)" fill="#faae4b" font-size="37" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Fair</tspan></text>
+    <text id="Good" transform="translate(591.768 41.065)" fill="#3ac66c" font-size="39" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Good</tspan></text>
+    <text id="Excellant" transform="translate(1015.768 39.065)" fill="#915ebf" font-size="37" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">Excellant</tspan></text>
+    <text id="_10" data-name="10" transform="translate(367.768 144.065)" fill="#444" font-size="41" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">10</tspan></text>
+    <text id="_50" data-name="50" transform="translate(891.768 141.065)" fill="#444" font-size="38" font-family="SegoeUI-Semibold, Segoe UI" font-weight="600"><tspan x="0" y="0">50</tspan></text>
+    <path id="Icon_feather-triangle" data-name="Icon feather-triangle" d="M21.274,6.292,2.909,34.869A3.805,3.805,0,0,0,2.9,38.892a4.4,4.4,0,0,0,3.72,2.04h36.73a4.4,4.4,0,0,0,3.72-2.04,3.805,3.805,0,0,0-.012-4.023L28.689,6.292a4.505,4.505,0,0,0-7.415,0Z" transform="translate(509.282 88.763)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="1" opacity="0.5"/>
+  </g>
+</svg>

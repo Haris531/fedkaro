@@ -1,0 +1,143 @@
+[
+    {
+        "_id": "1",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "2",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "3",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "4",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "5",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "6",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "7",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "8",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "9",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "10",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "7",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "8",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "9",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    },
+    {
+        "_id": "10",
+        "product_id":"VG-123",
+        "name": "Tomato",
+        "VendorPrice":"80",
+        "TradePrice":"90",
+        "retailPrice":"100",
+        "imagePath" : "/assets/images/dashboard/tomatoProduct.png",
+        "status": "Active"    
+    }
+    
+]
